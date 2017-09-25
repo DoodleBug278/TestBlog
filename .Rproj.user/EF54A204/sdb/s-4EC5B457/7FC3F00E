@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: Test Post\nauthor: Maddy R\ndate: '2017-09-25'\nslug: test-post\ncategories:\n  - R\ntags: [xxx]\n---\n\nHello there!\n\n```{r}\n2+2\n```\n\n",
+    "created" : 1506353600996.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1740142610",
+    "id" : "7FC3F00E",
+    "lastKnownWriteTime" : 1506353773,
+    "last_content_update" : 1506353773889,
+    "path" : "~/TestBlog/content/post/2017-09-25-test-post.Rmd",
+    "project_path" : "content/post/2017-09-25-test-post.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
