@@ -1,0 +1,21 @@
+---
+title: Hello!
+author: Maddy R
+date: '2017-09-27'
+slug: hello
+categories:
+  - R
+tags:
+  - xxx
+---
+
+```{r}
+greeting <- "Hello, everyone!"
+greeting
+```
+
+```{r}
+greetFRE <- "Bonjour, tout le monde!"
+greetFRE
+```
+
