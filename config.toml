@@ -4,7 +4,7 @@ relativeurls = true
 
 # You don't need to change this for Netlify deployment, but
 # it's still good practice to do so:
-baseurl = "https://homerhanumat.rbind.io/"
+baseurl = "https://doodlebugblog.netlify.com/"
 # remember trailing / at end of baseurl
 languageCode = "en-us"
 
@@ -13,7 +13,7 @@ title = "SublimeR Hugo"
 
 # Enable comments by entering your Disqus shortname
 # (Sign up at https://disqus.com/):
-# disqusShortname = ""
+# disqusShortname = "doodlebugblog"
 
 # Enable Google Analytics by entering your tracking code
 # googleAnalytics = ""
@@ -24,7 +24,7 @@ theme = "sublimer-hugo"
 	post = "/:year/:month/:day/:slug"
 
 [params]
-	name = "Homer White"
+	name = "Maddy Ramser"
 	
 	# The following appears in the <meta> tag by default (unless
 	# overriden by description: "whatever you like" in YAML front-matter
@@ -63,8 +63,8 @@ theme = "sublimer-hugo"
 
 [params.offcanvas]
 	# Menu items
-	title = "Hello, I'm Homer White"
-	bio = "I teach mathematics and computer science at a small liberal arts college in Kentucky.  In the summer I hack at garden hedges and front ends."
+	title = "Hello, I'm Maddy Ramser"
+	bio = "I am a student at Georgetown College studying chemistry, computer science, and french."
 	# Another biographical paragraph, if you like:
 	bio2 = ""
 	subscribe = "Subscribe"
@@ -81,12 +81,12 @@ theme = "sublimer-hugo"
 	[[params.offcanvas.socialnetworks]]
 	
 	  # The text for the link to your email:
-		name = "Email"
+		name = "Maddy Ramser"
 		# put your email here:
-		url = "mailto:person@example.com"
+		url = "mailto:mjramser@georgetowncollege.edu"
 		
 		# replace "homerhanumat" with your github username:
-		github = "homerhanumat"
+		github = "DoodleBug278"
 		
 		# If you want to link to your FB page, provide your username here.
 		# (It's at the end of your FB page URL.)
