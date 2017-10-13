@@ -90,16 +90,16 @@ theme = "sublimer-hugo"
 		
 		# If you want to link to your FB page, provide your username here.
 		# (It's at the end of your FB page URL.)
-		facebook = ""
+		#facebook = ""
 		
 		# Your twitter handle, if you like (minus the @):
-		twitter = ""
+		#twitter = ""
 		
 		# for Google Plus, provide URL fragment after the +:
-		googleplus = ""
+		#googleplus = ""
 		
 		# LinkedIn, username is at end of URL:
-		linkedin = ""
+		#linkedin = ""
 		
 # Taxonomies.
 [taxonomies]
