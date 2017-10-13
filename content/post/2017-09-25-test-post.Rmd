@@ -6,6 +6,7 @@ slug: test-post
 categories:
   - R
 tags: [xxx]
+comments: true
 ---
 
 Hello there!
